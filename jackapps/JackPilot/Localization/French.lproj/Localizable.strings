@@ -1,0 +1,59 @@
+"Start" = "Démarrer";
+"Stop" = "Arrêter";
+"Jack is Off" = "Jack est arrêté";
+"Jack is On" = "Jack est en route";
+
+/* ALERTS */
+"Please Wait..." = "Attendez...";
+"Jack server is starting..." = "Le serveur Jack démarre...";
+"Jack server is closing..." = "Le serveur Jack s'arrête...";
+"Cannot start Jack server,\nPlease check the console or retry after a system reboot." = "Le serveur Jack ne démarre pas,\nVérifiez les préférences ou essayez de nouveau après redémarrage.";
+"Jack server error, try manually (from Dock menu) to close jackd.." = "Erreur du serveur Jack, essayez manuellement (depuis le menu Dock) de fermer jackd..";
+"Are you sure?" = "Etes vous sur?";
+"No" = "Non";
+"Yes" = "Oui";
+"There are no clients running." = "Il n'y a pas de client actif.";
+"Error:" = "Erreur:";
+"Fatal error:" = "Erreur fatale:";
+"Warning:" = "Attention:";
+"Cannot initialize CoreAudio services, check JackPilot preferences or quit. " = "Les services CoreAudio ne peuvent pas être initialisés, Vérifiez les préférences de JackPilot ou quittez.";
+"Preferences" = "Préférences";
+"Quit" = "Quitter";
+"Cannot initialize CoreAudio services, JackPilot will quit. " = "Les services CoreAudio ne peuvent pas être initialisés, JackPilot va quitter.";
+"Cannot initialize CoreAudio services, check preferences. " = "Les services CoreAudio ne peuvent pas être initialisés, vérifiez les préférences.";
+"Cannot find last audio device, please check preferences. " = "Le dernier périphérique utilise est introuvable, verifiez les préférences.";
+"Use default" = "Utiliez le peripherique pas defaut";
+"Jack Audio Server CoreAudio driver is not installed or is corrupted. " = "Le driver CoreAudio JackRouter n'est pas installé ou est endommagé.";
+"Ok" = "Ok";
+"Sorry..." = "Attention...";
+"You must have \"Connections Manager\" window opened, and JACK must be ON." = "Vous devez avoir la fenêtre \"Gestionnaire de Connections\" ouverte, et JACK doit être actif.";
+"CANNOT BE RESTORED. If you need this connection you must open client application and retry" = "IMPOSSIBLE DE RESTAURER. Si vous avez besoin de cette connection, vous devez ouvrir l'application et reessayer.";
+"Retry" = "Réessayer";
+"Abort" = "Abandonner";
+"Skip" = "Laisser";
+"The physical driver used with this setup was " = "Le driver physique utilisé avec cette configuration";
+", now Jack is using " = ", maintenant Jack utilise ";
+", do you want to restore connections to the used with driver " = ", voulez vous restorer les connections avec le driver";
+"Jack server has been stopped, JackPilot will quit." = "Le serveur Jack s'est arrêté, JackPilot va quitter.";
+"CoreAudio driver has been restarted, unexpected behaviour may result." = "Le driver CoreAudio a été redemarré, des comportements incohérents peuvent en resulter.";
+
+/* "You have %d clients running, they will stop working or maybe crash!!\n" */
+"You have " = "Vous avez ";
+" clients running, they will stop working or maybe crash!!" = " client(s) actif(s), il(s) vont s'arrêter de fonctionner et peut être planter!!";
+"Another application has changed the device configuration." = "Le serveur Jack a été stoppé et devra être relancé avec une nouvelle configuration.";
+"Another application has changed the sample rate." = "Le serveur Jack a été stoppé et devra être relancé avec une nouvelle fréquence.";
+"Device is already used with another sample rate, that will be changed..." = "Le périphérique est déjà utilisé avec une autre fréquence d'échantillonnage, elle sera changée...";
+
+
+/* PLUG-INS */
+"Open Instance" = "Démarrer";
+"Close Instance" = "Arrêter";
+"Open Editor" = "Edition";
+
+
+/* ABOUT */
+"not installed." = "Non installé.";
+"Maybe too old." = "Peut être trop ancien.";
+"corrupted" = "endommage";
+
+
